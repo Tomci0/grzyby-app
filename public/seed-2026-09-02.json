@@ -1,0 +1,620 @@
+{
+  "wpisy": [
+    {
+      "id": 1,
+      "data": "2026-08-04",
+      "typDnia": "dawka",
+      "poranna": {
+        "wzieto": true,
+        "dawka": 0.15,
+        "jakoscSnu": 5,
+        "nastrojPoPobudzeniu": 5,
+        "intencja": "Być bardziej obecny/a w chwili obecnej"
+      },
+      "godzinaWziecia": "09:56",
+      "szybkieMysli": []
+    },
+    {
+      "id": 2,
+      "data": "2026-08-05",
+      "typDnia": "przerwa",
+      "poranna": {
+        "wzieto": false,
+        "dawka": 0,
+        "jakoscSnu": 5,
+        "nastrojPoPobudzeniu": 5,
+        "intencja": ""
+      },
+      "szybkieMysli": [
+        {
+          "data": "2026-08-05",
+          "tresc": "Ciekawe, jak różnie interpretuję tę samą sytuację zależnie od nastroju.",
+          "godzina": "11:30"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "data": "2026-08-06",
+      "typDnia": "przerwa",
+      "poranna": {
+        "wzieto": false,
+        "dawka": 0,
+        "jakoscSnu": 7.5,
+        "nastrojPoPobudzeniu": 7.5,
+        "intencja": "Zauważać piękno w codzienności"
+      },
+      "wieczorna": {
+        "focus": 5,
+        "energia": 2.5,
+        "spokoj": 5,
+        "tagi": [
+          "#zmęczenie"
+        ],
+        "refleksje": ""
+      },
+      "szybkieMysli": [
+        {
+          "data": "2026-08-06",
+          "tresc": "Nie każda myśl jest prawdą.",
+          "godzina": "14:15"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "data": "2026-08-07",
+      "typDnia": "dawka",
+      "poranna": {
+        "wzieto": true,
+        "dawka": 0.15,
+        "jakoscSnu": 5,
+        "nastrojPoPobudzeniu": 7.5,
+        "intencja": "Pracować ze skupieniem przez 4 godziny"
+      },
+      "szybkieMysli": []
+    },
+    {
+      "id": 5,
+      "data": "2026-08-08",
+      "typDnia": "przerwa",
+      "poranna": {
+        "wzieto": false,
+        "dawka": 0,
+        "jakoscSnu": 5,
+        "nastrojPoPobudzeniu": 7.5,
+        "intencja": "Pracować ze skupieniem przez 4 godziny"
+      },
+      "wieczorna": {
+        "focus": 5,
+        "energia": 5,
+        "spokoj": 5,
+        "tagi": [],
+        "refleksje": ""
+      },
+      "szybkieMysli": []
+    },
+    {
+      "id": 6,
+      "data": "2026-08-09",
+      "typDnia": "przerwa",
+      "szybkieMysli": []
+    },
+    {
+      "id": 7,
+      "data": "2026-08-10",
+      "typDnia": "dawka",
+      "wieczorna": {
+        "focus": 7.5,
+        "energia": 5,
+        "spokoj": 7.5,
+        "tagi": [
+          "#flow",
+          "#spokój"
+        ],
+        "refleksje": "Kreatywność wysoka. Myśli płynęły naturalnie."
+      },
+      "szybkieMysli": []
+    },
+    {
+      "id": 8,
+      "data": "2026-08-11",
+      "typDnia": "przerwa",
+      "poranna": {
+        "wzieto": false,
+        "dawka": 0,
+        "jakoscSnu": 7.5,
+        "nastrojPoPobudzeniu": 5,
+        "intencja": "Być bardziej obecny/a w chwili obecnej"
+      },
+      "wieczorna": {
+        "focus": 5,
+        "energia": 5,
+        "spokoj": 7.5,
+        "tagi": [
+          "#kofeina",
+          "#spokój"
+        ],
+        "refleksje": ""
+      },
+      "szybkieMysli": [
+        {
+          "data": "2026-08-11",
+          "tresc": "Nie każda myśl jest prawdą.",
+          "godzina": "14:15"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "data": "2026-08-12",
+      "typDnia": "przerwa",
+      "poranna": {
+        "wzieto": false,
+        "dawka": 0,
+        "jakoscSnu": 7.5,
+        "nastrojPoPobudzeniu": 5,
+        "intencja": ""
+      },
+      "wieczorna": {
+        "focus": 5,
+        "energia": 7.5,
+        "spokoj": 5,
+        "tagi": [],
+        "refleksje": "Zauważam większą reaktywność emocjonalną niż w dni dawki."
+      },
+      "szybkieMysli": []
+    },
+    {
+      "id": 10,
+      "data": "2026-08-13",
+      "typDnia": "dawka",
+      "szybkieMysli": []
+    },
+    {
+      "id": 11,
+      "data": "2026-08-14",
+      "typDnia": "przerwa",
+      "poranna": {
+        "wzieto": false,
+        "dawka": 0,
+        "jakoscSnu": 10,
+        "nastrojPoPobudzeniu": 5,
+        "intencja": "Zauważać piękno w codzienności"
+      },
+      "wieczorna": {
+        "focus": 5,
+        "energia": 5,
+        "spokoj": 5,
+        "tagi": [],
+        "refleksje": ""
+      },
+      "szybkieMysli": [
+        {
+          "data": "2026-08-14",
+          "tresc": "Nie każda myśl jest prawdą.",
+          "godzina": "14:15"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "data": "2026-08-15",
+      "typDnia": "przerwa",
+      "poranna": {
+        "wzieto": false,
+        "dawka": 0,
+        "jakoscSnu": 5,
+        "nastrojPoPobudzeniu": 5,
+        "intencja": "Pracować ze skupieniem przez 4 godziny"
+      },
+      "szybkieMysli": []
+    },
+    {
+      "id": 13,
+      "data": "2026-08-16",
+      "typDnia": "dawka",
+      "poranna": {
+        "wzieto": true,
+        "dawka": 0.15,
+        "jakoscSnu": 5,
+        "nastrojPoPobudzeniu": 10,
+        "intencja": "Obserwować myśli bez przywiązania"
+      },
+      "godzinaWziecia": "07:24",
+      "wieczorna": {
+        "focus": 10,
+        "energia": 5,
+        "spokoj": 7.5,
+        "tagi": [
+          "#flow",
+          "#spokój",
+          "#kreatywność"
+        ],
+        "refleksje": "Skupienie na wysokim poziomie przez większość dnia. Satysfakcja wieczorem."
+      },
+      "szybkieMysli": [
+        {
+          "data": "2026-08-16",
+          "tresc": "Przepiękny zachód słońca. Stałem/am i patrzyłem/am przez chwilę.",
+          "godzina": "20:00"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "data": "2026-08-17",
+      "typDnia": "przerwa",
+      "poranna": {
+        "wzieto": false,
+        "dawka": 0,
+        "jakoscSnu": 7.5,
+        "nastrojPoPobudzeniu": 5,
+        "intencja": "Obserwować myśli bez przywiązania"
+      },
+      "szybkieMysli": [
+        {
+          "data": "2026-08-17",
+          "tresc": "Ciekawe, jak różnie interpretuję tę samą sytuację zależnie od nastroju.",
+          "godzina": "11:30"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "data": "2026-08-18",
+      "typDnia": "przerwa",
+      "poranna": {
+        "wzieto": false,
+        "dawka": 0,
+        "jakoscSnu": 7.5,
+        "nastrojPoPobudzeniu": 7.5,
+        "intencja": "Skupić się na jednej rzeczy naraz"
+      },
+      "wieczorna": {
+        "focus": 7.5,
+        "energia": 7.5,
+        "spokoj": 5,
+        "tagi": [
+          "#stres"
+        ],
+        "refleksje": "Spokojny dzień. Ogólne dobre samopoczucie utrzymuje się."
+      },
+      "szybkieMysli": []
+    },
+    {
+      "id": 16,
+      "data": "2026-08-19",
+      "typDnia": "dawka",
+      "poranna": {
+        "wzieto": true,
+        "dawka": 0.15,
+        "jakoscSnu": 5,
+        "nastrojPoPobudzeniu": 5,
+        "intencja": "Pracować ze skupieniem przez 4 godziny"
+      },
+      "godzinaWziecia": "09:12",
+      "wieczorna": {
+        "focus": 7.5,
+        "energia": 7.5,
+        "spokoj": 10,
+        "tagi": [
+          "#flow",
+          "#spokój",
+          "#energia",
+          "#kreatywność"
+        ],
+        "refleksje": "Wyjątkowo dobry kontakt z emocjami. Zauważyłem/am stare wzorce i odpuściłem/am."
+      },
+      "szybkieMysli": [
+        {
+          "data": "2026-08-19",
+          "tresc": "Nie każda myśl jest prawdą.",
+          "godzina": "14:15"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "data": "2026-08-20",
+      "typDnia": "przerwa",
+      "wieczorna": {
+        "focus": 5,
+        "energia": 7.5,
+        "spokoj": 7.5,
+        "tagi": [
+          "#kofeina",
+          "#spokój"
+        ],
+        "refleksje": ""
+      },
+      "szybkieMysli": []
+    },
+    {
+      "id": 18,
+      "data": "2026-08-21",
+      "typDnia": "przerwa",
+      "poranna": {
+        "wzieto": false,
+        "dawka": 0,
+        "jakoscSnu": 5,
+        "nastrojPoPobudzeniu": 7.5,
+        "intencja": "Pracować ze skupieniem przez 4 godziny"
+      },
+      "wieczorna": {
+        "focus": 10,
+        "energia": 5,
+        "spokoj": 7.5,
+        "tagi": [
+          "#spokój"
+        ],
+        "refleksje": ""
+      },
+      "szybkieMysli": [
+        {
+          "data": "2026-08-21",
+          "tresc": "Ciekawe, jak różnie interpretuję tę samą sytuację zależnie od nastroju.",
+          "godzina": "11:30"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "data": "2026-08-22",
+      "typDnia": "dawka",
+      "poranna": {
+        "wzieto": true,
+        "dawka": 0.15,
+        "jakoscSnu": 5,
+        "nastrojPoPobudzeniu": 7.5,
+        "intencja": "Skupić się na jednej rzeczy naraz"
+      },
+      "godzinaWziecia": "07:16",
+      "wieczorna": {
+        "focus": 7.5,
+        "energia": 7.5,
+        "spokoj": 10,
+        "tagi": [
+          "#flow",
+          "#spokój",
+          "#energia"
+        ],
+        "refleksje": "Poczucie flow podczas rysowania. Dobry kontakt z ludźmi."
+      },
+      "szybkieMysli": []
+    },
+    {
+      "id": 20,
+      "data": "2026-08-23",
+      "typDnia": "przerwa",
+      "poranna": {
+        "wzieto": false,
+        "dawka": 0,
+        "jakoscSnu": 7.5,
+        "nastrojPoPobudzeniu": 7.5,
+        "intencja": "Pracować ze skupieniem przez 4 godziny"
+      },
+      "wieczorna": {
+        "focus": 5,
+        "energia": 5,
+        "spokoj": 5,
+        "tagi": [
+          "#stres"
+        ],
+        "refleksje": "Dzień przerwy. Trochę ciężej się skupić, ale normalne funkcjonowanie."
+      },
+      "szybkieMysli": []
+    },
+    {
+      "id": 21,
+      "data": "2026-08-24",
+      "typDnia": "przerwa",
+      "poranna": {
+        "wzieto": false,
+        "dawka": 0,
+        "jakoscSnu": 5,
+        "nastrojPoPobudzeniu": 7.5,
+        "intencja": "Obserwować myśli bez przywiązania"
+      },
+      "szybkieMysli": []
+    },
+    {
+      "id": 22,
+      "data": "2026-08-25",
+      "typDnia": "dawka",
+      "wieczorna": {
+        "focus": 10,
+        "energia": 10,
+        "spokoj": 7.5,
+        "tagi": [
+          "#flow",
+          "#spokój",
+          "#energia"
+        ],
+        "refleksje": "Skupienie na wysokim poziomie przez większość dnia. Satysfakcja wieczorem."
+      },
+      "szybkieMysli": []
+    },
+    {
+      "id": 23,
+      "data": "2026-08-26",
+      "typDnia": "przerwa",
+      "poranna": {
+        "wzieto": false,
+        "dawka": 0,
+        "jakoscSnu": 5,
+        "nastrojPoPobudzeniu": 5,
+        "intencja": "Skupić się na jednej rzeczy naraz"
+      },
+      "wieczorna": {
+        "focus": 5,
+        "energia": 7.5,
+        "spokoj": 5,
+        "tagi": [],
+        "refleksje": ""
+      },
+      "szybkieMysli": []
+    },
+    {
+      "id": 24,
+      "data": "2026-08-27",
+      "typDnia": "przerwa",
+      "poranna": {
+        "wzieto": false,
+        "dawka": 0,
+        "jakoscSnu": 7.5,
+        "nastrojPoPobudzeniu": 5,
+        "intencja": ""
+      },
+      "szybkieMysli": []
+    },
+    {
+      "id": 25,
+      "data": "2026-08-28",
+      "typDnia": "dawka",
+      "wieczorna": {
+        "focus": 7.5,
+        "energia": 7.5,
+        "spokoj": 7.5,
+        "tagi": [
+          "#flow",
+          "#spokój",
+          "#energia"
+        ],
+        "refleksje": "Wyjątkowo dobry kontakt z emocjami. Zauważyłem/am stare wzorce i odpuściłem/am."
+      },
+      "szybkieMysli": []
+    },
+    {
+      "id": 26,
+      "data": "2026-08-29",
+      "typDnia": "przerwa",
+      "poranna": {
+        "wzieto": false,
+        "dawka": 0,
+        "jakoscSnu": 5,
+        "nastrojPoPobudzeniu": 5,
+        "intencja": "Skupić się na jednej rzeczy naraz"
+      },
+      "wieczorna": {
+        "focus": 10,
+        "energia": 7.5,
+        "spokoj": 7.5,
+        "tagi": [
+          "#stres",
+          "#spokój"
+        ],
+        "refleksje": ""
+      },
+      "szybkieMysli": []
+    },
+    {
+      "id": 27,
+      "data": "2026-08-30",
+      "typDnia": "przerwa",
+      "poranna": {
+        "wzieto": false,
+        "dawka": 0,
+        "jakoscSnu": 5,
+        "nastrojPoPobudzeniu": 5,
+        "intencja": "Skupić się na jednej rzeczy naraz"
+      },
+      "wieczorna": {
+        "focus": 7.5,
+        "energia": 7.5,
+        "spokoj": 5,
+        "tagi": [],
+        "refleksje": "Zauważam większą reaktywność emocjonalną niż w dni dawki."
+      },
+      "szybkieMysli": []
+    },
+    {
+      "id": 28,
+      "data": "2026-08-31",
+      "typDnia": "dawka",
+      "poranna": {
+        "wzieto": true,
+        "dawka": 0.15,
+        "jakoscSnu": 10,
+        "nastrojPoPobudzeniu": 5,
+        "intencja": "Skupić się na jednej rzeczy naraz"
+      },
+      "godzinaWziecia": "07:13",
+      "szybkieMysli": [
+        {
+          "data": "2026-08-31",
+          "tresc": "Rozmowa z bliską osobą – warto pielęgnować te kontakty.",
+          "godzina": "19:45"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "data": "2026-09-01",
+      "typDnia": "przerwa",
+      "poranna": {
+        "wzieto": false,
+        "dawka": 0,
+        "jakoscSnu": 10,
+        "nastrojPoPobudzeniu": 5,
+        "intencja": "Być bardziej obecny/a w chwili obecnej"
+      },
+      "wieczorna": {
+        "focus": 10,
+        "energia": 5,
+        "spokoj": 7.5,
+        "tagi": [
+          "#kofeina",
+          "#spokój"
+        ],
+        "refleksje": "Spokojny dzień. Ogólne dobre samopoczucie utrzymuje się."
+      },
+      "szybkieMysli": [
+        {
+          "data": "2026-09-01",
+          "tresc": "Przepiękny zachód słońca. Stałem/am i patrzyłem/am przez chwilę.",
+          "godzina": "20:00"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "data": "2026-09-02",
+      "typDnia": "przerwa",
+      "poranna": {
+        "wzieto": false,
+        "dawka": 0,
+        "jakoscSnu": 5,
+        "nastrojPoPobudzeniu": 7.5,
+        "intencja": "Pracować ze skupieniem przez 4 godziny"
+      },
+      "wieczorna": {
+        "focus": 5,
+        "energia": 5,
+        "spokoj": 7.5,
+        "tagi": [
+          "#spokój"
+        ],
+        "refleksje": "Spokojny dzień. Ogólne dobre samopoczucie utrzymuje się."
+      },
+      "szybkieMysli": []
+    }
+  ],
+  "ustawienia": [
+    {
+      "id": 1,
+      "protokol": "fadiman",
+      "protokolWlasny": {
+        "dniDawki": 1,
+        "dniPrzerwy": 2
+      },
+      "domyslnaDawka": 0.15,
+      "godzinaRannaPowiadomienie": "08:00",
+      "godzinaWieczornaPowiadomienie": "21:00",
+      "dataRozpoczecia": "2026-08-04",
+      "powiadomieniaWlaczone": false
+    }
+  ],
+  "szybkieMysli": [],
+  "eksportowano": "2026-09-02T13:53:43.146Z"
+}
